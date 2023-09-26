@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountryRoad</string>
+    <string name="International">"Temukan keajaiban dunia di destinasi internasional terbaik. Bergabunglah dengan perjalanan tak terlupakan bersama kami!"
+    </string>
+    <array name="tiket">
+        <item>GOLD CLASS</item>
+        <item>DIAMONT CLASS</item>
+        <item>SILVER CLASS</item>
+        <item>BRONZE CLASS</item>
+    </array>
+</resources>
